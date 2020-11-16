@@ -3,7 +3,11 @@ I'm LordGumball, I make amazing stuff like IoT electronics 🤖, Games 🎮, Mul
 
 I'd like to first and foremost thank my friends and family ❤ for keeping me highly motivated 😍 at all times 🕛 to keep moving forward daily and helping me testing 🛠 my stuff. 
 
-I am an *Unico Hijo* 😲. Life is tough to be alone 👽 most of the time and I work alone ☹. I only know few people 🙁 that can help and will collaborate with me. It sure fun to work with someone 😄.
+I am an *Unico Hijo* 😲. Life is tough to be alone 👽 most of the time and I work alone ☹. I only know a few people 🙁 that can help and will collaborate with me. Its sure fun to work with someone 😄.
+
+For now, I am a student 👨‍🎓, but surely I have showcased a lot over the years. I'm highly regarded as an advanced tech enthusiast of my batch. And I am open to share my knowledge with everyone who's needing my help. 
+
+I don't like being selfish over the knowledge someone or I just accumulated from other's concept 😡. However, I make my own researches 📖, tests 🔥 and experiment 🧪 and publish my discoveries for everyone to understand and learn 💡. I am a researcher for different topics of IT 🖥, ECE 🤖, and many more based on my interests. 
 
 <!--
 **lordgumball20/lordgumball20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
