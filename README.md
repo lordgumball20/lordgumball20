@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+I'm LordGumball, I make amazing stuff like IoT electronics 🤖, Games 🎮, Multimedia 🎬, and so much more 💥. I spend my time and life working for my interests with passion as a hobby and benefits me a lot. 
+
+I'd like to first and foremost thank my friends and family ❤ for keeping me highly motivated 😍 at all times 🕛 to keep moving forward daily and helping me testing 🛠 my stuff. 
+
+I am an *Unico Hijo* 😲. Life is tough to be alone 👽 most of the time and I work alone ☹. I only know few people 🙁 that can help and will collaborate with me. It sure fun to work with someone 😄.
 
 <!--
 **lordgumball20/lordgumball20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
